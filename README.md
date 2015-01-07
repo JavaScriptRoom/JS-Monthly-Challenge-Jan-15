@@ -19,7 +19,7 @@ The elected idea is [the following](http://meta.stackoverflow.com/a/281556/85149
 Submission of entries is done through pull requests to this repository. Make a pull request with a `yourusername` folder containing:
 
     yourUserName
-      - main.go  # running this should run your submission
+      - main.html  # running this should run your submission
       - ... # any additional files required to run your submission
 
 
